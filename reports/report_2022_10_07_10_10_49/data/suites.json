@@ -1,0 +1,207 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcases.api",
+    "children" : [ {
+      "name" : "test_api",
+      "children" : [ {
+        "name" : "TestApi",
+        "children" : [ {
+          "name" : "test_01_mashang",
+          "uid" : "97acebeda5d75dc7",
+          "parentUid" : "ace415f4f69a9fc288a45ac1a970b792",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446566,
+            "stop" : 1641521446566,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_02_教育",
+          "uid" : "530106a90ef1f600",
+          "parentUid" : "ace415f4f69a9fc288a45ac1a970b792",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446567,
+            "stop" : 1641521446567,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_03_百里",
+          "uid" : "e7e88c6db4cf6467",
+          "parentUid" : "ace415f4f69a9fc288a45ac1a970b792",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446569,
+            "stop" : 1641521446569,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ace415f4f69a9fc288a45ac1a970b792"
+      } ],
+      "uid" : "c944d0f1136cd700612f3f27a06b95ad"
+    } ],
+    "uid" : "9fa56e5f11780dd2354215def54d7c60"
+  }, {
+    "name" : "testcases.weixin",
+    "children" : [ {
+      "name" : "test_mashang",
+      "children" : [ {
+        "name" : "TestBaili",
+        "children" : [ {
+          "name" : "test_05_get_token[ff]",
+          "uid" : "9bbd9f5f28cffc53",
+          "parentUid" : "e47cb52d006194da78bbd7b1471cfd67",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446571,
+            "stop" : 1641521446595,
+            "duration" : 24
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'fangfang'" ]
+        }, {
+          "name" : "test_05_get_token[yy]",
+          "uid" : "2c912a1d676b15bb",
+          "parentUid" : "e47cb52d006194da78bbd7b1471cfd67",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446597,
+            "stop" : 1641521446619,
+            "duration" : 22
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'zhouzhou'" ]
+        }, {
+          "name" : "test_05_get_token[zz]",
+          "uid" : "84108b38cefee791",
+          "parentUid" : "e47cb52d006194da78bbd7b1471cfd67",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446621,
+            "stop" : 1641521446641,
+            "duration" : 20
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'yanyang'" ]
+        } ],
+        "uid" : "e47cb52d006194da78bbd7b1471cfd67"
+      } ],
+      "uid" : "d6f01879355d2388cb2cf601abd7a5d8"
+    }, {
+      "name" : "test_weixin",
+      "children" : [ {
+        "name" : "TestApi",
+        "children" : [ {
+          "name" : "test_01_get_token[ff]",
+          "uid" : "39b82492c41f3813",
+          "parentUid" : "13087ff5b2b0f3cc484b43c2ff7b227c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446644,
+            "stop" : 1641521446644,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'fangfang'" ]
+        }, {
+          "name" : "test_01_get_token[yy]",
+          "uid" : "a27420747ff7449b",
+          "parentUid" : "13087ff5b2b0f3cc484b43c2ff7b227c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446646,
+            "stop" : 1641521446646,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'zhouzhou'" ]
+        }, {
+          "name" : "test_01_get_token[zz]",
+          "uid" : "644882aa2e84c401",
+          "parentUid" : "13087ff5b2b0f3cc484b43c2ff7b227c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446648,
+            "stop" : 1641521446648,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'yanyang'" ]
+        }, {
+          "name" : "test_02_add_flag",
+          "uid" : "b203d47b4fa50bdf",
+          "parentUid" : "13087ff5b2b0f3cc484b43c2ff7b227c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1641521446650,
+            "stop" : 1641521446650,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "13087ff5b2b0f3cc484b43c2ff7b227c"
+      } ],
+      "uid" : "c3799dbc635003c66bdba9c5e4a0ab56"
+    } ],
+    "uid" : "25a0defc231fd94fcd996d6cbdfd6d1f"
+  } ]
+}

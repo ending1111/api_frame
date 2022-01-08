@@ -1,0 +1,101 @@
+[ {
+  "uid" : "fa9d486f23cfbeee",
+  "name" : "test_05_get_token[yy]",
+  "time" : {
+    "start" : 1641481934438,
+    "stop" : 1641481934461,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "134c9ae6ccf87d1d",
+  "name" : "test_01_get_token[zz]",
+  "time" : {
+    "start" : 1641481934496,
+    "stop" : 1641481934496,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fe756828c64453b",
+  "name" : "test_01_get_token[ff]",
+  "time" : {
+    "start" : 1641481934491,
+    "stop" : 1641481934491,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "491a12b9221028bb",
+  "name" : "test_02_教育",
+  "time" : {
+    "start" : 1641481934385,
+    "stop" : 1641481934386,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcb83c4825a9dbb7",
+  "name" : "test_01_mashang",
+  "time" : {
+    "start" : 1641481934384,
+    "stop" : 1641481934384,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7615665589493697",
+  "name" : "test_05_get_token[ff]",
+  "time" : {
+    "start" : 1641481934389,
+    "stop" : 1641481934436,
+    "duration" : 47
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "500bc3668c6d6bb3",
+  "name" : "test_02_add_flag",
+  "time" : {
+    "start" : 1641481934498,
+    "stop" : 1641481934498,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e641bb5c9e970956",
+  "name" : "test_03_百里",
+  "time" : {
+    "start" : 1641481934387,
+    "stop" : 1641481934387,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84530593c8c00c87",
+  "name" : "test_05_get_token[zz]",
+  "time" : {
+    "start" : 1641481934464,
+    "stop" : 1641481934488,
+    "duration" : 24
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4120b3e9a3e87bcb",
+  "name" : "test_01_get_token[yy]",
+  "time" : {
+    "start" : 1641481934493,
+    "stop" : 1641481934493,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

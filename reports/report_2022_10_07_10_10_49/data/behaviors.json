@@ -1,0 +1,175 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_01_mashang",
+    "uid" : "97acebeda5d75dc7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446566,
+      "stop" : 1641521446566,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_02_教育",
+    "uid" : "530106a90ef1f600",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446567,
+      "stop" : 1641521446567,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_03_百里",
+    "uid" : "e7e88c6db4cf6467",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446569,
+      "stop" : 1641521446569,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_05_get_token[ff]",
+    "uid" : "9bbd9f5f28cffc53",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446571,
+      "stop" : 1641521446595,
+      "duration" : 24
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "'fangfang'" ]
+  }, {
+    "name" : "test_05_get_token[yy]",
+    "uid" : "2c912a1d676b15bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446597,
+      "stop" : 1641521446619,
+      "duration" : 22
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "'zhouzhou'" ]
+  }, {
+    "name" : "test_05_get_token[zz]",
+    "uid" : "84108b38cefee791",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446621,
+      "stop" : 1641521446641,
+      "duration" : 20
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "'yanyang'" ]
+  }, {
+    "name" : "test_01_get_token[ff]",
+    "uid" : "39b82492c41f3813",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446644,
+      "stop" : 1641521446644,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "'fangfang'" ]
+  }, {
+    "name" : "test_01_get_token[yy]",
+    "uid" : "a27420747ff7449b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446646,
+      "stop" : 1641521446646,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "'zhouzhou'" ]
+  }, {
+    "name" : "test_01_get_token[zz]",
+    "uid" : "644882aa2e84c401",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446648,
+      "stop" : 1641521446648,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "'yanyang'" ]
+  }, {
+    "name" : "test_02_add_flag",
+    "uid" : "b203d47b4fa50bdf",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1641521446650,
+      "stop" : 1641521446650,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,101 @@
+[ {
+  "uid" : "ecfa8a3b11825df5",
+  "name" : "test_05_get_token[ff]",
+  "time" : {
+    "start" : 1641386350786,
+    "stop" : 1641386350815,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecfe115bb6b05a34",
+  "name" : "test_02_教育",
+  "time" : {
+    "start" : 1641386350784,
+    "stop" : 1641386350784,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "412fa2091c97a0f1",
+  "name" : "test_01_get_token[ff]",
+  "time" : {
+    "start" : 1641386350883,
+    "stop" : 1641386350883,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a78be01e7cd816d",
+  "name" : "test_01_get_token[yy]",
+  "time" : {
+    "start" : 1641386350885,
+    "stop" : 1641386350885,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2eb018ac3e0947a9",
+  "name" : "test_01_mashang",
+  "time" : {
+    "start" : 1641386350782,
+    "stop" : 1641386350782,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b8401757f151bd4",
+  "name" : "test_05_get_token[yy]",
+  "time" : {
+    "start" : 1641386350819,
+    "stop" : 1641386350845,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd2e127ffaf997aa",
+  "name" : "test_01_get_token[zz]",
+  "time" : {
+    "start" : 1641386350887,
+    "stop" : 1641386350887,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d656ed93289f34",
+  "name" : "test_03_百里",
+  "time" : {
+    "start" : 1641386350785,
+    "stop" : 1641386350785,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "317c36a640c799bb",
+  "name" : "test_05_get_token[zz]",
+  "time" : {
+    "start" : 1641386350853,
+    "stop" : 1641386350880,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24d6d013b596c842",
+  "name" : "test_02_add_flag",
+  "time" : {
+    "start" : 1641386350889,
+    "stop" : 1641386350889,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,90 @@
+{
+  "uid" : "e7e88c6db4cf6467",
+  "name" : "test_03_百里",
+  "fullName" : "testcases.api.test_api.TestApi#test_03_百里",
+  "historyId" : "dbee4747f49f5659b621c50f6c9a221d",
+  "time" : {
+    "start" : 1641521446569,
+    "stop" : 1641521446569,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1641521446565,
+      "stop" : 1641521446565,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1641521446565,
+      "stop" : 1641521446565,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases.api"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "zhouli"
+  }, {
+    "name" : "thread",
+    "value" : "53088-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.api.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e7e88c6db4cf6467.json",
+  "parameterValues" : [ ]
+}

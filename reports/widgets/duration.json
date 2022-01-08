@@ -1,0 +1,101 @@
+[ {
+  "uid" : "5a3671d931b0929c",
+  "name" : "test_05_get_token[zz]",
+  "time" : {
+    "start" : 1641385939549,
+    "stop" : 1641385939577,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f2faebccf012fe3",
+  "name" : "test_05_get_token[ff]",
+  "time" : {
+    "start" : 1641385939488,
+    "stop" : 1641385939516,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fafd5449a73646d",
+  "name" : "test_01_get_token[ff]",
+  "time" : {
+    "start" : 1641385939580,
+    "stop" : 1641385939580,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a9e2d791670b0e5",
+  "name" : "test_02_教育",
+  "time" : {
+    "start" : 1641385939483,
+    "stop" : 1641385939483,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29446b212860dfe1",
+  "name" : "test_01_mashang",
+  "time" : {
+    "start" : 1641385939482,
+    "stop" : 1641385939482,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de76cdbb8132d0d",
+  "name" : "test_02_add_flag",
+  "time" : {
+    "start" : 1641385939588,
+    "stop" : 1641385939588,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc0e311f653de90b",
+  "name" : "test_03_百里",
+  "time" : {
+    "start" : 1641385939485,
+    "stop" : 1641385939485,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ade285bba1bd8cad",
+  "name" : "test_01_get_token[yy]",
+  "time" : {
+    "start" : 1641385939582,
+    "stop" : 1641385939582,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94da2845bcb1c969",
+  "name" : "test_05_get_token[yy]",
+  "time" : {
+    "start" : 1641385939519,
+    "stop" : 1641385939540,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "258f1746bc971202",
+  "name" : "test_01_get_token[zz]",
+  "time" : {
+    "start" : 1641385939584,
+    "stop" : 1641385939584,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
