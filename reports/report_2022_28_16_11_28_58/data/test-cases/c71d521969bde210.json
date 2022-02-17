@@ -1,0 +1,123 @@
+{
+  "uid" : "c71d521969bde210",
+  "name" : "test_05_get_token[ff]",
+  "fullName" : "testcases.weixin.test_mashang.TestBaili#test_05_get_token",
+  "historyId" : "8c5a1a05552f22cb4701ab3143365153",
+  "time" : {
+    "start" : 1644982135610,
+    "stop" : 1644982135652,
+    "duration" : 42
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1644982135604,
+      "stop" : 1644982135604,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1644982135604,
+      "stop" : 1644982135604,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "kwkwkwkw",
+    "time" : {
+      "start" : 1644982135609,
+      "stop" : 1644982135609,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "kwkwkwkw::0",
+    "time" : {
+      "start" : 1644982135652,
+      "stop" : 1644982135652,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases.weixin"
+  }, {
+    "name" : "suite",
+    "value" : "test_mashang"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestBaili"
+  }, {
+    "name" : "host",
+    "value" : "zhouli"
+  }, {
+    "name" : "thread",
+    "value" : "48312-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.weixin.test_mashang"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "kwkwkwkw",
+    "value" : "'fangfang'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c71d521969bde210.json",
+  "parameterValues" : [ "'fangfang'" ]
+}

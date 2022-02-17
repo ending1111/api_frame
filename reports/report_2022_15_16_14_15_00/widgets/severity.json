@@ -1,0 +1,111 @@
+[ {
+  "uid" : "32ffbb1354cc0946",
+  "name" : "test_05_get_token[zz]",
+  "time" : {
+    "start" : 1644992097797,
+    "stop" : 1644992097820,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8f180017b565c97",
+  "name" : "test_03_百里",
+  "time" : {
+    "start" : 1644992097738,
+    "stop" : 1644992097738,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da7b0d09a271cff6",
+  "name" : "test_01_get_token[zz]",
+  "time" : {
+    "start" : 1644992097828,
+    "stop" : 1644992097828,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16b5f5b2332199c8",
+  "name" : "test_05_get_token[ff]",
+  "time" : {
+    "start" : 1644992097739,
+    "stop" : 1644992097771,
+    "duration" : 32
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d868659db3dfd333",
+  "name" : "test_01_mashang",
+  "time" : {
+    "start" : 1644992097733,
+    "stop" : 1644992097734,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cc676ff36ea3124",
+  "name" : "test_get_token",
+  "time" : {
+    "start" : 1644992097641,
+    "stop" : 1644992097641,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "77f5b80d7d27b501",
+  "name" : "test_02_教育",
+  "time" : {
+    "start" : 1644992097736,
+    "stop" : 1644992097736,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd2626996f2390a3",
+  "name" : "test_01_get_token[ff]",
+  "time" : {
+    "start" : 1644992097822,
+    "stop" : 1644992097822,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d01335e1b31ecf14",
+  "name" : "test_01_get_token[yy]",
+  "time" : {
+    "start" : 1644992097825,
+    "stop" : 1644992097825,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dfd248e775d683",
+  "name" : "test_02_add_flag",
+  "time" : {
+    "start" : 1644992097830,
+    "stop" : 1644992097830,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcb3494617faeec7",
+  "name" : "test_05_get_token[yy]",
+  "time" : {
+    "start" : 1644992097773,
+    "stop" : 1644992097795,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

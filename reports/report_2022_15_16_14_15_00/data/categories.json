@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: get() missing 1 required positional argument: 'url'",
+      "children" : [ {
+        "name" : "test_get_token",
+        "uid" : "9cc676ff36ea3124",
+        "parentUid" : "aec32587014557ec9b5a2626ce33f306",
+        "status" : "broken",
+        "time" : {
+          "start" : 1644992097641,
+          "stop" : 1644992097641,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aec32587014557ec9b5a2626ce33f306"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

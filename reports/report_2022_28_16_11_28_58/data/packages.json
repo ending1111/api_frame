@@ -1,0 +1,195 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "api.test_api",
+      "children" : [ {
+        "name" : "test_01_mashang",
+        "uid" : "2e63534fd5123ae1",
+        "parentUid" : "892e77fb328b3d2a446336e9dce6d6c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644982135605,
+          "stop" : 1644982135605,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_教育",
+        "uid" : "a0e535e65503f52e",
+        "parentUid" : "892e77fb328b3d2a446336e9dce6d6c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644982135606,
+          "stop" : 1644982135606,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_03_百里",
+        "uid" : "751cfe816eb59ed0",
+        "parentUid" : "892e77fb328b3d2a446336e9dce6d6c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644982135608,
+          "stop" : 1644982135608,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "api.test_api"
+    }, {
+      "name" : "weixin",
+      "children" : [ {
+        "name" : "test_mashang",
+        "children" : [ {
+          "name" : "test_05_get_token[ff]",
+          "uid" : "c71d521969bde210",
+          "parentUid" : "e4071856e14c3021604fb4aa4996801f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644982135610,
+            "stop" : 1644982135652,
+            "duration" : 42
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'fangfang'" ]
+        }, {
+          "name" : "test_05_get_token[yy]",
+          "uid" : "f056ec75f9f9dfb6",
+          "parentUid" : "e4071856e14c3021604fb4aa4996801f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644982135654,
+            "stop" : 1644982135677,
+            "duration" : 23
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'zhouzhou'" ]
+        }, {
+          "name" : "test_05_get_token[zz]",
+          "uid" : "b1173cbdd59fbf91",
+          "parentUid" : "e4071856e14c3021604fb4aa4996801f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644982135680,
+            "stop" : 1644982135718,
+            "duration" : 38
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'yanyang'" ]
+        } ],
+        "uid" : "e4071856e14c3021604fb4aa4996801f"
+      }, {
+        "name" : "test_weixin",
+        "children" : [ {
+          "name" : "test_01_get_token[ff]",
+          "uid" : "5ddf4880057be85f",
+          "parentUid" : "09e06305b59656ad3971facaff464ce7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644982135721,
+            "stop" : 1644982135721,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'fangfang'" ]
+        }, {
+          "name" : "test_01_get_token[yy]",
+          "uid" : "648091a0c9d117de",
+          "parentUid" : "09e06305b59656ad3971facaff464ce7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644982135724,
+            "stop" : 1644982135724,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'zhouzhou'" ]
+        }, {
+          "name" : "test_01_get_token[zz]",
+          "uid" : "466b2783c48a0420",
+          "parentUid" : "09e06305b59656ad3971facaff464ce7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644982135726,
+            "stop" : 1644982135726,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'yanyang'" ]
+        }, {
+          "name" : "test_02_add_flag",
+          "uid" : "f1f01e19a7ca5e",
+          "parentUid" : "09e06305b59656ad3971facaff464ce7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1644982135728,
+            "stop" : 1644982135728,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "09e06305b59656ad3971facaff464ce7"
+      } ],
+      "uid" : "1aaf878df56fa73e07f61a17fbd15259"
+    } ],
+    "uid" : "141fa05f02bf329144b0086cf92149a8"
+  } ]
+}
