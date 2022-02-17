@@ -1,5 +1,6 @@
 # author:小莉
 import json
+import re
 
 import requests
 import random
@@ -7,8 +8,13 @@ import os
 
 
 class TestApi:
-    #全局变量
+    #全局变量  全局变量使用类名+变量名调用
     access_token=""
+    csrf_token=""
+    #通过session会话去关联，session默认的情况下会自动关联cookie
+    #session表示生成一个session对象
+    session=requests.session()
+
     #获取token接口
     def test_get_token(self):
         print("获得token")
@@ -49,9 +55,31 @@ class TestApi:
         }
         res=requests.post(url=urls,files=datas)
         print(res.json())
+
     #访问phpwind论坛接口
     def test_phpwind(self):
         urls="http://47.107.116.139/phpwind/"
-        res=requests.get(url=urls)
-        #返回的是一个网页
+        #敲重点：使用session调用请求
+        res=TestApi.session.request("get",urls)
+        #返回的是一个网页,使用text输出
+        print(res.text)
+        #re表示正则表达式匹配，从res.txt中匹配到token的值,group表示取到第一个匹配的值  用类名调用表示使用的是全局变量
+        TestApi.csrf_token=re.search('name="csrf_token" value="(.*?)"',res.text).group(1)
+        print(TestApi.csrf_token)
+
+    def test_phpwind_login(self):
+        urls="http://47.107.116.139/phpwind/index.php?m=u&c=login&a=dorun"
+        datas={
+            "username":"admin",
+            "password":"msjy123",
+            "csrf_token": TestApi.csrf_token,
+            "backurl":"http://47.107.116.139/phpwind/",
+            "invite":""
+        }
+        headers={
+            "Accept":"application/json, text/javascript, /; q=0.01",
+            "X-Requested-With":"XMLHttpRequest"
+        }
+        res=TestApi.session.request("post",url=urls,data=datas,headers=headers)
+        #访问和登录需要用到cookies关联，因此需要传cookies
         print(res.text)
