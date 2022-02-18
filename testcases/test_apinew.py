@@ -66,7 +66,7 @@ class TestApi:
         #re表示正则表达式匹配，从res.txt中匹配到token的值,group表示取到第一个匹配的值  用类名调用表示使用的是全局变量
         TestApi.csrf_token=re.search('name="csrf_token" value="(.*?)"',res.text).group(1)
         print(TestApi.csrf_token)
-
+    #phpwind登录接口
     def test_phpwind_login(self):
         urls="http://47.107.116.139/phpwind/index.php?m=u&c=login&a=dorun"
         datas={
